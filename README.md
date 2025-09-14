@@ -2,6 +2,8 @@
 
 This repository contains a demo Streamlit app to help you learn and experiment with Streamlit features.
 
+It can be accessed using the link [https://satish-karengula-st-tutorial-01.streamlit.app/](https://satish-karengula-st-tutorial-01.streamlit.app/)
+
 ## Demo App
 
 The `streamlist_demo_app.py` showcases:
