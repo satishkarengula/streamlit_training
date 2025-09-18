@@ -30,4 +30,12 @@ Explore the code to learn more about Streamlit's capabilities!
 ## Author
 
 **Satish Karengula**  
+
 Email: [satishdevops932@gmail.com](mailto:satishdevops932@gmail.com)
+
+LinkedIn: [Satish Karengula](https://www.linkedin.com/in/satishkarengula/)
+
+YouTube: [Satish Karengula](https://www.youtube.com/@SatishKarengula)
+
+---
+Power Ahead!
